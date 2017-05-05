@@ -1,0 +1,7 @@
+C:\Users\Personal\documents\visual studio 2013\Projects\ModuloSeguridad\AA_NEGOCIO\bin\Debug\AA_NEGOCIO.dll
+C:\Users\Personal\documents\visual studio 2013\Projects\ModuloSeguridad\AA_NEGOCIO\bin\Debug\AA_NEGOCIO.pdb
+C:\Users\Personal\documents\visual studio 2013\Projects\ModuloSeguridad\AA_NEGOCIO\bin\Debug\AA_DATOS.dll
+C:\Users\Personal\documents\visual studio 2013\Projects\ModuloSeguridad\AA_NEGOCIO\bin\Debug\AA_DATOS.pdb
+C:\Users\Personal\documents\visual studio 2013\Projects\ModuloSeguridad\AA_NEGOCIO\obj\Debug\AA_NEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\Personal\documents\visual studio 2013\Projects\ModuloSeguridad\AA_NEGOCIO\obj\Debug\AA_NEGOCIO.dll
+C:\Users\Personal\documents\visual studio 2013\Projects\ModuloSeguridad\AA_NEGOCIO\obj\Debug\AA_NEGOCIO.pdb

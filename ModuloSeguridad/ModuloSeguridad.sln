@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloSeguridad", "ModuloSeguridad\ModuloSeguridad.csproj", "{7C635A18-9881-4FE4-976E-D47D0EE837E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AA_DATOS", "AA_DATOS\AA_DATOS.csproj", "{18EE0555-FE56-424E-B8FF-0BCD92D9EF26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AA_NEGOCIO", "AA_NEGOCIO\AA_NEGOCIO.csproj", "{699C0C5A-C3AD-49A6-BD5B-56E9982B9D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C635A18-9881-4FE4-976E-D47D0EE837E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C635A18-9881-4FE4-976E-D47D0EE837E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C635A18-9881-4FE4-976E-D47D0EE837E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C635A18-9881-4FE4-976E-D47D0EE837E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18EE0555-FE56-424E-B8FF-0BCD92D9EF26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EE0555-FE56-424E-B8FF-0BCD92D9EF26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EE0555-FE56-424E-B8FF-0BCD92D9EF26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EE0555-FE56-424E-B8FF-0BCD92D9EF26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699C0C5A-C3AD-49A6-BD5B-56E9982B9D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699C0C5A-C3AD-49A6-BD5B-56E9982B9D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699C0C5A-C3AD-49A6-BD5B-56E9982B9D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699C0C5A-C3AD-49A6-BD5B-56E9982B9D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
